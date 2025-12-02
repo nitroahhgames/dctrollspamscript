@@ -1,0 +1,1 @@
+<iframe width="395" height="836" src="https://www.youtube.com/embed/dju018GL9zM" title="Exploded A Discord Chat With A Simple Script #discord" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
